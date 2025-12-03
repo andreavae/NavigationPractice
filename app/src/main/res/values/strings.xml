@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NavigationPractice</string>
+
+    <string name="second_activity_title">Second Activity</string>
+
+    <string name="go_to_second_activity">Go to Second Activity</string>
+
+    <string name="main_fragment_label">Main Fragment</string>
+    <string name="go_to_second_from_fragment">Go to Second from Fragment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="go_to_second_fragment">Go to Second Fragment</string>
+    <string name="go_to_third_fragment">Go to Third Fragment</string>
+    <string name="go_to_actions_activity">Go to Actions Activity</string>
+    <string name="back_to_first">Back to First</string>
+
+
+</resources>
